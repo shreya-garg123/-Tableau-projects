@@ -69,7 +69,5 @@ I explored how digital payments are happening across different cities, age group
 
 ---
 
-## About Me
 
-I am currently learning data analytics and working on improving my skills in Tableau, SQL, and data visualization by building small projects like this.
 
